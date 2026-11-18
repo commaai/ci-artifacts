@@ -1,0 +1,3 @@
+✅ CHEVROLET_BOLT_EUV gm 5  engaged 1/1, 0 blocked, 447 cmds  onroad 10 s, recorded 15 s, 50 s
+✅ HONDA_CIVIC_BOSCH_DIESEL hondaBosch 0  engaged 1/1, 0 blocked, 1651 cmds  onroad 8 s, recorded 15 s, 51 s
+shard 6/8: 2 passed, 0 failed, 66 gaps (not driven), 1.9 min
