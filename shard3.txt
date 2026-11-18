@@ -1,0 +1,3 @@
+✅ TOYOTA_RAV4_PRIME toyota 2121  engaged 1/1, 0 blocked, 2724 cmds  onroad 10 s, recorded 15 s, 50 s
+✅ NISSAN_ROGUE nissan 0  engaged 1/1, 0 blocked, 1551 cmds  onroad 8 s, recorded 15 s, 51 s
+shard 3/8: 2 passed, 0 failed, 66 gaps (not driven), 1.9 min
