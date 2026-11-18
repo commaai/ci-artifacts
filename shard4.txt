@@ -1,0 +1,3 @@
+✅ TOYOTA_YARIS toyota 2633  engaged 1/1, 0 blocked, 2058 cmds  onroad 11 s, recorded 15 s, 50 s
+✅ NISSAN_ALTIMA nissan 1  engaged 1/1, 0 blocked, 1000 cmds  onroad 7 s, recorded 15 s, 51 s
+shard 4/8: 2 passed, 0 failed, 66 gaps (not driven), 1.9 min
