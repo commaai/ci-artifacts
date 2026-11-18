@@ -1,0 +1,4 @@
+✅ TOYOTA_ALPHARD_TSS2 toyota 73  engaged 1/1, 0 blocked, 1978 cmds  onroad 11 s, recorded 15 s, 50 s
+✅ DODGE_DURANGO chrysler 0  engaged 1/1, 0 blocked, 533 cmds  onroad 10 s, recorded 15 s, 51 s
+✅ HYUNDAI_IONIQ_HEV_2022 hyundaiLegacy 2  engaged 1/1, 0 blocked, 1029 cmds  onroad 9 s, recorded 15 s, 50 s
+shard 1/8: 3 passed, 0 failed, 66 gaps (not driven), 2.8 min
