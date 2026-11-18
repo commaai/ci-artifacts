@@ -1,0 +1,4 @@
+✅ HONDA_FIT hondaNidec 4  engaged 1/1, 0 blocked, 1707 cmds  onroad 9 s, recorded 15 s, 50 s
+✅ HYUNDAI_KONA_EV_2022 hyundai 73  engaged 1/1, 1 blocked, 1008 cmds  onroad 9 s, recorded 15 s, 50 s
+✅ GENESIS_G70 hyundaiLegacy 0  engaged 1/1, 0 blocked, 1023 cmds  onroad 9 s, recorded 15 s, 50 s
+shard 0/8: 3 passed, 0 failed, 66 gaps (not driven), 2.7 min
